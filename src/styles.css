@@ -1,0 +1,8 @@
+/* Se fija la fuente de todos los componentes de las vistas del juego */
+* {
+    font-family: 'Press Start 2P', cursive;
+  }
+
+body {
+    background-color: black;
+}
